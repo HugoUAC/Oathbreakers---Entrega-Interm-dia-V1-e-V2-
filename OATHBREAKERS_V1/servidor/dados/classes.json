@@ -1,0 +1,37 @@
+[
+    {
+        "item_id": 1,
+        "nome": "Cavaleiro",
+        "vida": 100,
+        "mana": 25,
+        "ataque": 15,
+        "defesa": 15,
+        "bonus": [],
+        "descricao_bonus": [],
+        "penalidade": [],
+        "descricao_penalidade": [],
+        "descricao": "Um cavaleiro valente"
+    },
+    {
+        "item_id": 2,
+        "nome": "Mago",
+        "vida": 75,
+        "mana": 75,
+        "ataque": 20,
+        "defesa": 5,
+        "bonus": [],
+        "penalidade": [],
+        "descricao": "Um mago poderoso"
+    },
+    {
+        "item_id": 3,
+        "nome": "Bárbaro",
+        "vida": 150,
+        "mana": 0,
+        "ataque": 25,
+        "defesa": 10,
+        "bonus": [],
+        "penalidade": [],
+        "descricao": "Um bárbaro feroz"
+    }
+]
